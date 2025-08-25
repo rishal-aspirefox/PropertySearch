@@ -1,0 +1,6 @@
+@PropertySearch_HostAddress = http://localhost:5220
+
+GET {{PropertySearch_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
